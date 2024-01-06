@@ -12,4 +12,4 @@ Perirenal adipose tissue (PRAT) was found spatially and temporally heterogeneous
 - R codes for all analysis were listed.
 
 ### Citation
-[A distinct subpopulation of adipocytes in adult perirenal adipose tissue arises through brown-to-white conversion but reverts to a thermogenic phenotype upon cold exposure](https://doi.org/10.7554/eLife.93151.1)
+Zhang, Houyu, Yan Li, Carlos F. Ibáñez, and Meng Xie. 2024. “A Distinct Subpopulation of Adipocytes in Adult Perirenal Adipose Tissue Arises through Brown-to-White Conversion but Reverts to a Thermogenic Phenotype upon Cold Exposure.” eLife.https://doi.org/10.7554/eLife.93151.1
