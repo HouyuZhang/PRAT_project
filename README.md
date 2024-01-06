@@ -1,4 +1,4 @@
-[# Reveal heterogeneity and plasticity of perirenal adipose tissue by snRNA-seq
+# A distinct subpopulation of adipocytes in adult perirenal adipose tissue arises through brown-to-white conversion but reverts to a thermogenic phenotype upon cold exposure
 **:writing_hand:Author**: Houyu Zhang
 
 **:email:Email**: houyuzhang@stu.pku.edu.cn
