@@ -5,8 +5,7 @@
 
 Copyright (c) 2023 CarlosLab@PKU. All rights reserved.
 
-Perirenal adipose tissue (PRAT) was found spatially and temporally heterogeneous base on our preliminary experiments on the morphological and molecular level, also by others in human and mouse. All current researches on PRAT suggesting its remodeling potential features, like transit from multilocular to unilocular morphology, a process we suspected as "whitening". 
-
+Perirenal adipose tissue (PRAT) is a unique visceral depot that contains a mixture of brown and white adipocytes. The origin and plasticity of such cellular heterogeneity remains unknown. Here, we combine single-nucleus RNA sequencing with genetic lineage tracing to reveal the existence of a distinct subpopulation of Ucp1-/Cidea+ adipocytes that arises from brown-to-white conversion during postnatal life in the peri-ureter region of mouse PRAT. Cold exposure restores Ucp1 expression and a thermogenic phenotype in this subpopulation. These cells have a transcriptome that is distinct from subcutaneous beige adipocytes and may represent a unique type of cold-recruitable adipocytes. These results pave the way for studies of PRAT physiology and mechanisms controlling the plasticity of brown/white adipocyte phenotypes.
 ### :file_folder:Scripts 
 
 - R codes for all analysis were listed.
