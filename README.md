@@ -11,5 +11,5 @@ Perirenal adipose tissue (PRAT) is a unique visceral depot that contains a mixtu
 - R codes for all analysis were listed.
 
 ### Citation
-Zhang Houyu, Li Yan, Ibáñez Carlos F., Xie Meng (2024) A distinct subpopulation of adipocytes in adult perirenal adipose tissue arises through brown-to-white conversion but reverts to a thermogenic phenotype upon cold exposure eLife 13:RP93151
-https://doi.org/10.7554/eLife.93151.1
+Zhang Houyu, Li Yan, Ibáñez Carlos F., Xie Meng (2024) [A distinct subpopulation of adipocytes in adult perirenal adipose tissue arises through brown-to-white conversion but reverts to a thermogenic phenotype upon cold exposure](https://elifesciences.org/articles/93151) eLife 13:RP93151
+
